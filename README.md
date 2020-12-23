@@ -1,7 +1,7 @@
 # sluarogue
 simple rogue like game running in terminal. Written in Lua.
 Very simple game. still needs work. 
-Uses [Sluacurses](https://github.com/return5/sluacurses) and [Jumpr](https://github.com/Yonaba/Jumper)  
+Uses [Sluacurses](https://github.com/return5/sluacurses) and [Jumper](https://github.com/Yonaba/Jumper)  
 
 ### running  
   - makes sure to place the 'sluacrses.so' file and the 'jumper' directory in the same location as 'sluacurses.lua'  
